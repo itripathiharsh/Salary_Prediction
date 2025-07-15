@@ -57,5 +57,14 @@ The app collects the following inputs:
 ## 📁 Project Structure
 
 
+# 💼 Salary Prediction Web App
+
+A simple, interactive Streamlit-based web application that predicts whether an individual's income is likely to be **>50K or <=50K** based on various features such as age, education, workclass, and more.
+
+🔗 **Live Demo**: [Salary Prediction App](https://salaryprediction-lacqmjgcnyb3zgnywk7byp.streamlit.app/)
+
+---
+
+
 
 GDrive Link for Pkl File -- https://drive.google.com/file/d/1iqNBtQFpmAF_BkQsnFPmxiw2vRfaQKAO/view?usp=sharing
